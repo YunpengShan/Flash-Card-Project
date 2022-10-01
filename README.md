@@ -6,22 +6,22 @@ This is a project using java language and javafx framework , using flash cards t
 
 Choose one level to start
 
-![](images/StartPage.jpg)
+![](images_javafx_projet/StartPage.jpg)
 
 # Intro Page
 
 How the flash card works
 
-![](images/IntroPage.jpg)
+![](images_javafx_projet/IntroPage.jpg)
 
 # Questions and Answers Page
 
 questions and answers
 
-![](images/QuestionPage.jpg)
+![](images_javafx_projet/QuestionPage.jpg)
 
 # Finish Page
 
 Ask users to start again or quit
 
-![](images/FinishPage.jpg)
+![](images_javafx_projet/FinishPage.jpg)
